@@ -11,7 +11,7 @@ IF %ERRORLEVEL% == 0 (
     SET currpath=%~dp0
     SET projectpath="!currpath!..\Unity"
     SET logpath=!currpath!unity.log
-    SET outputpath=!currpath!output\unity\ProjectHavoc.exe
+    SET outputpath=!currpath!unity\ProjectHavoc.exe
     
     echo starting build for Unity project at !projectpath!...
     "!unity!\Editor\Unity.exe" -quit -batchmode -projectPath !projectpath! -logFile !logpath! -buildWindows64Player !outputpath!
