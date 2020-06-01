@@ -1,34 +1,34 @@
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
-[Oo]bj/
-[Bb]uild
-/[Bb]uilds/
-/[Ll]ibrary/
-sysinfo.txt
-*.stackdump
-/Assets/AssetStoreTools*
-*.apk
-*.unitypackage
+/Unity/[Tt]emp/
+/Unity/[Oo]bj/
+/Unity/[Bb]uild
+/Unity/[Bb]uilds/
+/Unity/[Ll]ibrary/
+/Unity/sysinfo.txt
+/Unity/*.stackdump
+/Unity/Assets/AssetStoreTools*
+/Unity/*.apk
+/Unity/*.unitypackage
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-[Ee]xported[Oo]bj/
-.vs/
-/*.userprefs
-/*.csproj
-/*.pidb
-*.pidb.meta
-/*.suo
-/*.sln*
-/*.user
-/*.unityproj
-/*.booproj
-.consulo/
-/*.tmp
-/*.svd
+/Unity/[Ee]xported[Oo]bj/
+/Unity/.vs/
+/Unity/*.userprefs
+/Unity/*.csproj
+/Unity/*.pidb
+/Unity/*.pidb.meta
+/Unity/*.suo
+/Unity/*.sln*
+/Unity/*.user
+/Unity/*.unityproj
+/Unity/*.booproj
+/Unity/.consulo/
+/Unity/*.tmp
+/Unity/*.svd
  
 # ============ #
 # OS generated #
